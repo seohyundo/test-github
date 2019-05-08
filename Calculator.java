@@ -6,3 +6,7 @@ public class Calculator {
     int a =4;
     int b =2;
     System.out.println( sum(a,b);)
+
+
+
+// add a something
